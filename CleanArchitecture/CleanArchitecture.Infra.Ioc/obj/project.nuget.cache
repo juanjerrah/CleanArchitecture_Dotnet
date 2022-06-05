@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zz/ks14WxVSVnTDdzrjU0rHevBRlAc1SXeGeKEN9Jx+pAyT8OfdFSGNCd/J8sFkSA2h235RQtqwC/oybiCqDsA==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\.net\\CleanArchitecture_Dotnet\\CleanArchitecture\\CleanArchitecture.Infra.Ioc\\CleanArchitecture.Infra.Ioc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juanj\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0-preview.4.22229.2\\microsoft.entityframeworkcore.7.0.0-preview.4.22229.2.nupkg.sha512",
+    "C:\\Users\\juanj\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0-preview.4.22229.2\\microsoft.entityframeworkcore.abstractions.7.0.0-preview.4.22229.2.nupkg.sha512",
+    "C:\\Users\\juanj\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.0-preview.4.22229.2\\microsoft.entityframeworkcore.analyzers.7.0.0-preview.4.22229.2.nupkg.sha512",
+    "C:\\Users\\juanj\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.0-preview.4.22229.2\\microsoft.entityframeworkcore.relational.7.0.0-preview.4.22229.2.nupkg.sha512",
+    "C:\\Users\\juanj\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0-preview.4.22229.4\\microsoft.extensions.caching.abstractions.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\juanj\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0-preview.4.22229.4\\microsoft.extensions.caching.memory.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\juanj\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0-preview.4.22229.4\\microsoft.extensions.configuration.abstractions.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\juanj\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0-preview.4.22229.4\\microsoft.extensions.dependencyinjection.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\juanj\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-preview.4.22229.4\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\juanj\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0-preview.4.22229.4\\microsoft.extensions.logging.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\juanj\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0-preview.4.22229.4\\microsoft.extensions.logging.abstractions.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\juanj\\.nuget\\packages\\microsoft.extensions.options\\7.0.0-preview.4.22229.4\\microsoft.extensions.options.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\juanj\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-preview.4.22229.4\\microsoft.extensions.primitives.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\juanj\\.nuget\\packages\\npgsql\\7.0.0-preview.4\\npgsql.7.0.0-preview.4.nupkg.sha512",
+    "C:\\Users\\juanj\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.0-preview.4\\npgsql.entityframeworkcore.postgresql.7.0.0-preview.4.nupkg.sha512",
+    "C:\\Users\\juanj\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
